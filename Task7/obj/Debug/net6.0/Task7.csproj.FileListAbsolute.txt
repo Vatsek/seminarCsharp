@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\GB\seminar\Task7\bin\Debug\net6.0\Task7.exe
+C:\Users\1\Desktop\GB\seminar\Task7\bin\Debug\net6.0\Task7.deps.json
+C:\Users\1\Desktop\GB\seminar\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+C:\Users\1\Desktop\GB\seminar\Task7\bin\Debug\net6.0\Task7.dll
+C:\Users\1\Desktop\GB\seminar\Task7\bin\Debug\net6.0\Task7.pdb
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.dll
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\refint\Task7.dll
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.pdb
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache
+C:\Users\1\Desktop\GB\seminar\Task7\obj\Debug\net6.0\ref\Task7.dll
