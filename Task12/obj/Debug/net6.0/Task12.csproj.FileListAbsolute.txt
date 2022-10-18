@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.AssemblyInfo.cs
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/bin/Debug/net6.0/Task12
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/bin/Debug/net6.0/Task12.deps.json
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/bin/Debug/net6.0/Task12.runtimeconfig.json
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/bin/Debug/net6.0/Task12.dll
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/bin/Debug/net6.0/Task12.pdb
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.dll
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/refint/Task12.dll
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.pdb
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/Task12.genruntimeconfig.cache
+/Users/pavelvatsek/Desktop/Gb/seminar/Task12/obj/Debug/net6.0/ref/Task12.dll
