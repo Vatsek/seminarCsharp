@@ -1,0 +1,5 @@
+/Users/pavelvatsek/Desktop/Gb/seminar/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Desktop/Gb/seminar/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Desktop/Gb/seminar/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Desktop/Gb/seminar/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/Users/pavelvatsek/Desktop/Gb/seminar/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
