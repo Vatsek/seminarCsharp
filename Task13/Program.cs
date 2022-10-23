@@ -14,7 +14,7 @@ if (inputNumber < 100)
     }
 else
 {
-    while (inputNumber => 1000)
+    while (inputNumber >= 1000)
     {
     inputNumber = inputNumber / 10;
     }
