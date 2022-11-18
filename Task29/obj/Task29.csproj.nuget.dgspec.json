@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pavelvatsek/Gb/seminar/Task29/Task29.csproj": {}
+    "/Users/pavelvatsek/Gb/practicalTasks/Task29/Task29.csproj": {}
   },
   "projects": {
-    "/Users/pavelvatsek/Gb/seminar/Task29/Task29.csproj": {
+    "/Users/pavelvatsek/Gb/practicalTasks/Task29/Task29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pavelvatsek/Gb/seminar/Task29/Task29.csproj",
+        "projectUniqueName": "/Users/pavelvatsek/Gb/practicalTasks/Task29/Task29.csproj",
         "projectName": "Task29",
-        "projectPath": "/Users/pavelvatsek/Gb/seminar/Task29/Task29.csproj",
+        "projectPath": "/Users/pavelvatsek/Gb/practicalTasks/Task29/Task29.csproj",
         "packagesPath": "/Users/pavelvatsek/.nuget/packages/",
-        "outputPath": "/Users/pavelvatsek/Gb/seminar/Task29/obj/",
+        "outputPath": "/Users/pavelvatsek/Gb/practicalTasks/Task29/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pavelvatsek/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Gb/practicalTasks/Task25/bin/Debug/net6.0/Task25
+/Users/pavelvatsek/Gb/practicalTasks/Task25/bin/Debug/net6.0/Task25.deps.json
+/Users/pavelvatsek/Gb/practicalTasks/Task25/bin/Debug/net6.0/Task25.runtimeconfig.json
+/Users/pavelvatsek/Gb/practicalTasks/Task25/bin/Debug/net6.0/Task25.dll
+/Users/pavelvatsek/Gb/practicalTasks/Task25/bin/Debug/net6.0/Task25.pdb
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.AssemblyInfo.cs
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.dll
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/refint/Task25.dll
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.pdb
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/Task25.genruntimeconfig.cache
+/Users/pavelvatsek/Gb/practicalTasks/Task25/obj/Debug/net6.0/ref/Task25.dll
