@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.AssemblyInfo.cs
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/bin/Debug/net6.0/Task5
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/bin/Debug/net6.0/Task5.deps.json
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/bin/Debug/net6.0/Task5.runtimeconfig.json
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/bin/Debug/net6.0/Task5.dll
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/bin/Debug/net6.0/Task5.pdb
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.dll
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/refint/Task5.dll
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.pdb
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/Task5.genruntimeconfig.cache
+/Users/pavelvatsek/Gb/seminar10.11.22/Task37/obj/Debug/net6.0/ref/Task5.dll
