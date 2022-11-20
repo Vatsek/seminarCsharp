@@ -7,6 +7,33 @@
 */
 
 Console.Write("Введите трёхзначное число: ");
+
 int inputNumber = Convert.ToInt32(Console.ReadLine());
-int secondFigure = inputNumber / 10 %10;
+
+if (CheckBitDepth(inputNumber))
+{
+    return;
+}
+
+int secondFigure = inputNumber / 10 % 10;
+
 Console.WriteLine($"Вторая цифра числа {inputNumber} = {secondFigure}");
+
+
+bool CheckBitDepth(int number)
+{
+    int count = 0;
+    while (number > 0)
+    {
+        number = number / 10;
+        count++;
+    }
+    if (count != 3)
+    {
+        Console.WriteLine("Введено не трехначное число");
+        return true;
+    }
+    else
+        return false;
+    
+}

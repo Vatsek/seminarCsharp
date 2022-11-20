@@ -4,16 +4,14 @@
 6, 1, 33 -> [6, 1, 33]
 */
 
-Console.Write("Введите число, которому будет равен размер массива: ");
-int size = Convert.ToInt32(Console.ReadLine());
+int size = ReadInt("Введите число, которому будет равен размер массива: ");
 
 int[] numbers = new int[size];
 int index = 0;
 
 while (index < numbers.Length)
 {
-    Console.WriteLine("Введите элемент массива:");
-    numbers[index] = Convert.ToInt32(Console.ReadLine());
+    numbers[index] = ReadInt($"Введите {index} элемент массива:");
     index++;
 }
 
@@ -29,4 +27,11 @@ void PrintArray(int[] array)
     {
         Console.Write($"{array[i]} ");
     }
+}
+
+int ReadInt(string message)
+{
+    Console.Write(message);
+    int number = Convert.ToInt32(Console.ReadLine());
+    return number;
 }

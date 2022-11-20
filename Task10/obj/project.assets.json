@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pavelvatsek/Desktop/Gb/seminar/Task10/Task10.csproj",
+      "projectUniqueName": "/Users/pavelvatsek/Gb/seminarCsharp/Task10/Task10.csproj",
       "projectName": "Task10",
-      "projectPath": "/Users/pavelvatsek/Desktop/Gb/seminar/Task10/Task10.csproj",
+      "projectPath": "/Users/pavelvatsek/Gb/seminarCsharp/Task10/Task10.csproj",
       "packagesPath": "/Users/pavelvatsek/.nuget/packages/",
-      "outputPath": "/Users/pavelvatsek/Desktop/Gb/seminar/Task10/obj/",
+      "outputPath": "/Users/pavelvatsek/Gb/seminarCsharp/Task10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pavelvatsek/.nuget/NuGet/NuGet.Config"

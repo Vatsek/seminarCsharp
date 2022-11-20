@@ -5,9 +5,7 @@
 9012 -> 12
 */
 
-Console.Write("Введите число: ");
-
-int number = Convert.ToInt32(Console.ReadLine());
+int number = ReadInt("Введите число: ");
 
 int result = 0;
 
@@ -17,3 +15,11 @@ while (number > 0)
     number /= 10;
 }
 Console.WriteLine($"Сумма цифр введенного числа: {result}");
+
+
+int ReadInt(string message)
+{
+    Console.Write(message);
+    int number = Convert.ToInt32(Console.ReadLine());
+    return number;
+}

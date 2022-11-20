@@ -17,7 +17,6 @@ for (int i = 0; i < numbers.Length; i++)
     {
         count++;
     }
-    continue;
 }
 Console.WriteLine($"Количество четных чисел в массиве {count}");
 
