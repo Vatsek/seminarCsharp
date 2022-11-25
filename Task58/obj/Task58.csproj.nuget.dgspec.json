@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pavelvatsek/Gb/seminarCsharp/Task58/Task58.csproj": {}
+    "/Users/pavelvatsek/Gb/PracticalTask/Task58/Task58.csproj": {}
   },
   "projects": {
-    "/Users/pavelvatsek/Gb/seminarCsharp/Task58/Task58.csproj": {
+    "/Users/pavelvatsek/Gb/PracticalTask/Task58/Task58.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pavelvatsek/Gb/seminarCsharp/Task58/Task58.csproj",
+        "projectUniqueName": "/Users/pavelvatsek/Gb/PracticalTask/Task58/Task58.csproj",
         "projectName": "Task58",
-        "projectPath": "/Users/pavelvatsek/Gb/seminarCsharp/Task58/Task58.csproj",
+        "projectPath": "/Users/pavelvatsek/Gb/PracticalTask/Task58/Task58.csproj",
         "packagesPath": "/Users/pavelvatsek/.nuget/packages/",
-        "outputPath": "/Users/pavelvatsek/Gb/seminarCsharp/Task58/obj/",
+        "outputPath": "/Users/pavelvatsek/Gb/PracticalTask/Task58/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pavelvatsek/.nuget/NuGet/NuGet.Config"

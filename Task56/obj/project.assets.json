@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pavelvatsek/Gb/seminarCsharp/Task56/Task56.csproj",
+      "projectUniqueName": "/Users/pavelvatsek/Gb/PracticalTask/Task56/Task56.csproj",
       "projectName": "Task56",
-      "projectPath": "/Users/pavelvatsek/Gb/seminarCsharp/Task56/Task56.csproj",
+      "projectPath": "/Users/pavelvatsek/Gb/PracticalTask/Task56/Task56.csproj",
       "packagesPath": "/Users/pavelvatsek/.nuget/packages/",
-      "outputPath": "/Users/pavelvatsek/Gb/seminarCsharp/Task56/obj/",
+      "outputPath": "/Users/pavelvatsek/Gb/PracticalTask/Task56/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pavelvatsek/.nuget/NuGet/NuGet.Config"

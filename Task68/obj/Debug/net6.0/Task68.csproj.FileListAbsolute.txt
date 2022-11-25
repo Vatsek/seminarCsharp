@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Gb/PracticalTask/Task68/bin/Debug/net6.0/Task68
+/Users/pavelvatsek/Gb/PracticalTask/Task68/bin/Debug/net6.0/Task68.deps.json
+/Users/pavelvatsek/Gb/PracticalTask/Task68/bin/Debug/net6.0/Task68.runtimeconfig.json
+/Users/pavelvatsek/Gb/PracticalTask/Task68/bin/Debug/net6.0/Task68.dll
+/Users/pavelvatsek/Gb/PracticalTask/Task68/bin/Debug/net6.0/Task68.pdb
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.AssemblyInfo.cs
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.dll
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/refint/Task68.dll
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.pdb
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/Task68.genruntimeconfig.cache
+/Users/pavelvatsek/Gb/PracticalTask/Task68/obj/Debug/net6.0/ref/Task68.dll
